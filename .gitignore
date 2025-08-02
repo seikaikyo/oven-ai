@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build outputs
+frontend/dist/
+*.egg-info/
+
+# Environment files
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+.claude/settings.local.json
+# Build outputs
+frontend/dist/
+frontend/dist-electron/
+*.exe
+*.dmg
+*.AppImage
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/venv/
+
+# Vercel
+.vercel
+
+# Large files
+*.pak
+*.dll
+*.bin
+*.asar
