@@ -4,7 +4,6 @@
 [![Language](https://img.shields.io/badge/Language-繁體中文-blue.svg)](README.md)
 [![English](https://img.shields.io/badge/Language-English-red.svg)](README_EN.md)
 [![Japanese](https://img.shields.io/badge/Language-日本語-orange.svg)](README_JA.md)
-[![Chinese](https://img.shields.io/badge/Language-中文-yellow.svg)](README_ZH-TW.md)
 
 | Dashboard Overview | AI Smart Analysis | Device Monitoring |
 |:---:|:---:|:---:|
